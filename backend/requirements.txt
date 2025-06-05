@@ -1,0 +1,15 @@
+flask==2.0.1
+flask-cors==3.0.10
+torch==2.0.0
+transformers==4.41.1
+requests==2.31.0
+python-dotenv==1.0.0
+langchain==0.3.25
+langchain-community==0.3.23
+faiss-cpu==1.11.0
+sentence-transformers==3.4.1
+accelerate==1.6.0
+werkzeug==2.0.3
+nltk==3.9.1
+rouge_score==0.1.2
+bert_score==0.3.13

@@ -1,0 +1,10 @@
+[
+    {
+        "timestamp": "2025-05-10 22:00:39",
+        "input": "want drink",
+        "emotion": "desire",
+        "context": "I'm going to the bar tonight. I",
+        "response": "I really want something to drink right now. It's been a while since I last had anything, and I'm feeling quite thirsty. Even a sip of water would make a big difference for me.",
+        "metrics": {}
+    }
+]

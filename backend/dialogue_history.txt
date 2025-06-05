@@ -1,0 +1,35 @@
+Timestamp: None
+User Input: I music
+Emotion: neutral, Context: I love the Beatles.
+Generated Response: I love music. It's a big part of my life. When I listen to my favorite songs, like the slow ones by Ed Sheeran, I close my eyes and rock gently, letting the melody flow through me. That’s how I feel the music inside, and it’s such a calming experience.
+
+Timestamp: None
+User Input: want eat
+Emotion: desire, Context: I'm going to eat a lot
+Generated Response: I'm really craving a peanut butter sandwich right now. Folding the bread in half makes it so much easier to enjoy!
+
+Timestamp: None
+User Input: I music
+Emotion: neutral, Context: I love the Beatles.
+Generated Response: I love music. It's more than just sound to me; it's a feeling that resonates deeply. Like when Ed Sheeran’s slow songs come on, I close my eyes and rock gently, letting the music flow through me. That’s how I truly feel it inside.
+
+Timestamp: None
+User Input: want eat
+Emotion: desire, Context: I'm going to eat a lot
+Generated Response: I really want to eat something right now. I've been thinking about how satisfying it would be to have one of my favorite peanut butter sandwiches, folded just the way I like it.
+
+Timestamp: None
+User Input: want drink
+Emotion: desire, Context: I'm going to the bar tonight. I
+Generated Response: I really want something to drink.
+
+Timestamp: None
+User Input: I music
+Emotion: neutral, Context: I love the Beatles.
+Generated Response: I love listening to music. It's more than just sound to me; it's a feeling that resonates deep within. Like when Ed Sheeran's slow songs come on, I close my eyes and rock gently, letting the melody wash over me. That's how I truly feel the music inside.
+
+Timestamp: 2025-05-10 22:00:39
+User Input: want drink
+Emotion: desire, Context: I'm going to the bar tonight. I
+Generated Response: I really want something to drink right now. It's been a while since I last had anything, and I'm feeling quite thirsty. Even a sip of water would make a big difference for me.
+
