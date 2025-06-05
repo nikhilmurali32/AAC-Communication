@@ -50,3 +50,4 @@ fetch('http://localhost:5000/predict', {
 ## Customization
 - To change the words or colors, edit the `WORDS` array in `src/App.js`.
 - To change the look and feel, adjust the inline styles in `src/App.js`. 
+
