@@ -8,6 +8,7 @@ This is a React-based front end for an Augmentative and Alternative Communicatio
 - Send button to submit input
 - Translucent loading/output screen with close (X) button
 - Easy integration point for backend model (Flan-T5 or other)
+<img width="1916" height="990" alt="image" src="https://github.com/user-attachments/assets/41fae526-de4a-4e85-86b2-ca4752810820" />
 
 ## How to Run
 
