@@ -33,6 +33,9 @@ The app will be available at `http://localhost:3000` by default.
 - Replace the `setTimeout` block with your actual backend call (e.g., using `fetch` or `axios`).
 - When you receive the response from your backend (Flan-T5 model), set the output using `setOutput(responseText)`.
 
+<img width="587" height="394" alt="image" src="https://github.com/user-attachments/assets/ab3e995f-9b63-44c3-8160-fd0bbd3fa84c" />
+
+
 ## Example Backend Call
 ```js
 fetch('http://localhost:5000/predict', {
