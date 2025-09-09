@@ -50,6 +50,7 @@ fetch('http://localhost:5000/predict', {
   })
   .catch(() => setLoading(false));
 ```
+<img width="317" height="321" alt="image" src="https://github.com/user-attachments/assets/fdb77218-431f-4111-9818-a833b3448117" />
 
 ## Customization
 - To change the words or colors, edit the `WORDS` array in `src/App.js`.
