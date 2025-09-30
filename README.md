@@ -1,3 +1,6 @@
+# Main Project Website
+https://aiforaac.github.io/
+
 # AAC Frontend
 
 This is a React-based front end for an Augmentative and Alternative Communication (AAC) system.
