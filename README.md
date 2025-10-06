@@ -3,16 +3,15 @@ https://aiforaac.github.io/
 
 # Personalized Conversational AI for Enhanced AAC Communication
 
-• Developed a personalized conversational AI system for AAC users by fine-tuning FLAN-T5 and integrating RAG with
+- Developed a personalized conversational AI system for AAC users by fine-tuning FLAN-T5 and integrating RAG with
 user-specific narrative embeddings, enabling context-aware and empathetic responses.
-• Implemented dynamic prompting and FAISS-based retrieval, with final response generation via Mistral LLM, resulting in a
+- Implemented dynamic prompting and FAISS-based retrieval, with final response generation via Mistral LLM, resulting in a
 16% improvement in BLEU and ROUGE scores. Built an interactive React frontend with Flask backend.
 
-# Frontend
+## Frontend
 
 This is a React-based front end for an Augmentative and Alternative Communication (AAC) system.
 
-## Features
 - Clickable, colorful word boxes for common AAC vocabulary
 - Search box at the bottom for sentence construction
 - Send button to submit input
