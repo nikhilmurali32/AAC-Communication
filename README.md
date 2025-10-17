@@ -1,7 +1,8 @@
 # Main Project Website
 https://aiforaac.github.io/
 
-Please note that we have made a subvsequent improvements on this project via Agentic RAG framework which is lot more personalized and scalable. We have currently submitted the work at IUI 2026 as a double-blineded research paper - meaning we cannot disclose the code/paper until accepted.
+## Note:
+This repository represents the initial version of our project. We have since developed an enhanced version using an Agentic RAG framework, making it significantly more personalized and scalable. The updated work has been submitted to IUI 2026 as a double-blind research paper, so the corresponding code and documentation will remain private until the review process is complete.
 
 ## Personalized Conversational AI for Enhanced AAC Communication
 
