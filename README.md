@@ -1,6 +1,8 @@
 # Main Project Website
 https://aiforaac.github.io/
 
+Please note that we have made a subvsequent improvements on this project via Agentic RAG framework which is lot more personalized and scalable. We have currently submitted the work at IUI 2026 as a double-blineded research paper - meaning we cannot disclose the code/paper until accepted.
+
 ## Personalized Conversational AI for Enhanced AAC Communication
 
 - Developed a personalized conversational AI system for AAC users by fine-tuning FLAN-T5 and integrating RAG with
